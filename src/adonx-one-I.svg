@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="1024" viewBox="0, 0, 1024, 1024">
+  <g id="Layer_1">
+    <g id="g987">
+      <path d="M851.411,263.098 L670.392,444.118 L579.882,353.608 L760.902,172.589 z" fill="#FF4437" id="rect847"/>
+      <path d="M444.118,670.392 L263.098,851.411 L172.589,760.901 L353.608,579.882 z" fill="#FF4437" id="rect866"/>
+      <path d="M670.392,579.882 L851.411,760.902 L760.902,851.411 L579.882,670.392 z" fill="#FF4437" id="rect868"/>
+      <path d="M263.098,172.589 L444.118,353.608 L353.608,444.118 L172.589,263.098 z" fill="#FF4437" id="rect870"/>
+    </g>
+    <path d="M647.764,512 L512,647.764 L376.236,512 L512,376.235 z" fill="#7C4DFF" id="rect878"/>
+    <g id="g1005">
+      <path d="M919.294,512 L828.784,602.51 L738.274,512 L828.784,421.49 z" fill="#30B5FF" id="rect872"/>
+      <path d="M602.51,195.216 L512,285.726 L421.49,195.216 L512,104.707 z" fill="#30B5FF" id="rect874"/>
+      <path d="M602.51,828.784 L512,919.293 L421.49,828.784 L512,738.274 z" fill="#30B5FF" id="rect876"/>
+      <path d="M285.726,512 L195.216,602.51 L104.707,512 L195.216,421.49 z" fill="#30B5FF" id="rect928"/>
+    </g>
+  </g>
+</svg>
